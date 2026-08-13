@@ -46,7 +46,7 @@ It helps identify performance metrics that can guide better decision-making for 
 ---
 
 ## 👨‍💻 Author
-*Roopan Krishna*  
+*Mogan Roopan Krishna*  
 📍 Tirupati, India  
 📧 [roopankrishan@gmail.com](mailto:roopankrishan@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/roopankrishan)  
