@@ -1,4 +1,4 @@
-# 🍕 Pizza Sales Analysis Project
+# Retail Sales Analysis & KPI Dashboard 
 
 ## 📊 Overview
 This project analyzes pizza sales data using *Microsoft Excel* to uncover key business insights such as top-selling products, revenue trends, and customer preferences.  
