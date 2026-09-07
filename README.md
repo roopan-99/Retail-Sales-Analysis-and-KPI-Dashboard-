@@ -1,6 +1,6 @@
 # Retail Sales Analysis & KPI Dashboard 
 
-## 📊 Overview
+## 📊 Overvie
 This project analyzes pizza sales data using *Microsoft Excel* to uncover key business insights such as top-selling products, revenue trends, and customer preferences.  
 It helps identify performance metrics that can guide better decision-making for sales improvement.
 
